@@ -1,0 +1,32 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.username {
+    display: none;
+}
+
+.svg-icon { 
+    width: 16px; 
+    height: 16px; 
+    display: inline-block; 
+    fill: #828282;
+    padding-right: 10px; 
+    vertical-align: text-top; 
+}
+
+.social-media-list > li {
+    display: inline;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    text-align: center;
+}
