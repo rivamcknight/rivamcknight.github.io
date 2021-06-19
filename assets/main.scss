@@ -4,17 +4,17 @@
 
 @import "minima";
 
+
+.footer-heading {
+    display: none;
+}
+
 .username {
     display: none;
 }
 
 .svg-icon { 
-    width: 16px; 
-    height: 16px; 
-    display: inline-block; 
-    fill: #828282;
-    padding-right: 10px; 
-    vertical-align: text-top; 
+    fill: white;
 }
 
 .social-media-list > li {
@@ -29,4 +29,26 @@ img {
 
 td {
     text-align: center;
+}
+
+.site-header {
+    background-color: #4F00B1;
+    background-image: linear-gradient(to right, #4F00B1, purple, #5779A3);
+}
+
+.site-footer {
+    background-color: #4F00B1;
+    background-image: linear-gradient(to right, #4F00B1, purple, #5779A3);
+}
+
+.site-nav .page-link {
+    color: white;
+}
+
+.site-header .site-title {
+    color: white;
+}
+
+.footer-col-wrapper {
+    color: white;
 }
