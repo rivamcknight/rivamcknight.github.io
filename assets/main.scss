@@ -45,6 +45,12 @@ td {
     color: white;
 }
 
+@media screen and (max-width: 600px) {
+    .site-nav .page-link {
+        color: black;
+    }
+}
+
 .site-header .site-title {
     color: white;
 }
