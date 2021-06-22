@@ -6,12 +6,14 @@ layout: default
 
 Thanks for visiting! Please browse my portfolio.
 
+## Online Documents
 - [API Documentation](https://github.com/rivamcknight/riddles-api#introduction)<br>
   *API documentation for a Riddles API I created. I experimented with a few different methods to document the REST API including Swagger UI, Stoplight, and Markdown.*
 
 - [Blog](blog.html)<br>
   *Blog post about mind mapping.*
 
+## PDF Documents
 - [Step-by-Step Procedure](assets/pdfs/McKnightStepByStepProcedure.pdf)<br>
   *Step-by-step procedure to clear the cache and data in a Chrome browser.*
 
